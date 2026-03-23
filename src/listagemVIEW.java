@@ -1,4 +1,4 @@
-
+// Listagem conectada ao banco de dados
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
